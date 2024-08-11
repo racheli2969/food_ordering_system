@@ -1,0 +1,8 @@
+.orderDetails{
+    color: black;
+    position: absolute;
+    background: orange;
+    width: 100px;
+    height: 100px;
+    right: 5px;
+}
